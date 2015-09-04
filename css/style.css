@@ -1,0 +1,1 @@
+body{font-family:'Lora',serif;margin:1em}#theSites{display:flex;flex-direction:row;justify-content:center}#theSites div{flex-grow:1;background-color:#eee;margin:1em;padding:1em 2em;text-transform:capitalize}#theSites div a{color:lightskyblue;text-decoration:none}#theSites div a:visited{color:seagreen;text-decoration:none}
